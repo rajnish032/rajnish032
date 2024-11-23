@@ -7,10 +7,11 @@
 
 
 🛠️ **Core Expertise**:  
-- AI-Driven SaaS Solutions (predictive analytics, NLP, recommendation engines)
-- Backend Development (Flask, Node.js, and more)  
-- Full-stack Web Development (React.js, Next.js)  
-- Advanced RAG Applications (LangChain, HuggingFace, OpenAI and more)
+- Frontend Development (HTNL, CSS, JavaScript, React.js) 
+- Backend Development ( Node.js, Express.js and more)  
+- Full-stack Web Development (React.js, Next.js)
+- Database (SQL, MongoDB) 
+
 
 ## 🧑🏻‍💻 Languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -63,8 +64,8 @@
 ###
 
 
-
-# 🏆 GSSOC'24 Badges
+<details open>
+  <summary><h1>👀 🏆 GSSOC'24 Badges </h1></summary>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=rajnish032">
     <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="100px" height="100px" />
@@ -79,13 +80,8 @@
     <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="105px" height="105px" />    
   </a>
 </div>
-
-<details open>
-  <summary><h1>👀 HacktoberFest Badges</h1></summary>
-  <div align="center">
-    <img src="https://holopin.me/ikkiocean" width="80%" height="80%" />
-  </div>
 </details>
+
 
 
 # 📊 GitHub Stats:
