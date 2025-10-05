@@ -10,11 +10,6 @@
 - Database (SQL, MongoDB) 
 
 
-# 💫 About Me:
-👋 Hey there! I'm Rajnish<br><br>🔭 I’m currently working as a Full Stack Developer at Aero2Astro<br>👯 I’m looking to collaborate on innovative web and AI-based projects<br>🤝 I’m looking for help with building decentralized (Web3) applications<br>🌱 I’m currently learning Web3, Blockchain, and Smart Contract development<br>💬 Ask me about MERN Stack, REST APIs, or integrating AI tools into web apps<br>⚡ Fun fact: I love turning complex ideas into simple, interactive web experiences!
-
-
-
 ## 🧑🏻‍💻 Languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
